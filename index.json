@@ -1,35 +1,65 @@
 [
-  {
-    "child": [
-    ],
-    "equipmentCosts": 0,
-    "estimatedProfit": 0,
-    "id": 0,
-    "machineOperatorSalary": 0,
-    "mainCosts": 0,
-    "materials": 0,
-    "mimExploitation": 0,
-    "overheads": 0,
-    "rowName": "Южная строительная площадка",
-    "salary": 0,
-    "supportCosts": 0,
-    "total": 0
-  },
-  {
-    "child": [
-    ],
-    "equipmentCosts": 0,
-    "estimatedProfit": 0,
-    "id": 1,
-    "machineOperatorSalary": 0,
-    "mainCosts": 0,
-    "materials": 0,
-    "mimExploitation": 0,
-    "overheads": 0,
-    "rowName": "Северная строительная площадка",
-    "salary": 0,
-    "supportCosts": 0,
-    "total": 0
-  }
-]
+	{
+		"id": 17558,
+		"rowName": "ASD",
+		"total": 1,
+		"salary": 0,
+		"mimExploitation": 0,
+		"machineOperatorSalary": 0,
+		"materials": 0,
+		"mainCosts": 0,
+		"supportCosts": 0,
+		"equipmentCosts": 0,
+		"overheads": 0,
+		"estimatedProfit": 0,
+		"child": [
+			{
+				"id": 17699,
+				"rowName": "DSA",
+				"total": 1,
+				"salary": 0,
+				"mimExploitation": 0,
+				"machineOperatorSalary": 0,
+				"materials": 0,
+				"mainCosts": 0,
+				"supportCosts": 0,
+				"equipmentCosts": 0,
+				"overheads": 0,
+				"estimatedProfit": 0,
+				"child": [
+					{
+						"id": 17700,
+						"rowName": "SAD",
+						"total": 0,
+						"salary": 0,
+						"mimExploitation": 0,
+						"machineOperatorSalary": 0,
+						"materials": 0,
+						"mainCosts": 0,
+						"supportCosts": 0,
+						"equipmentCosts": 0,
+						"overheads": 0,
+						"estimatedProfit": 0,
+						"child": []
+					},
+					{
+						"id": 17701,
+						"rowName": "ADS",
+						"total": 0,
+						"salary": 0,
+						"mimExploitation": 0,
+						"machineOperatorSalary": 0,
+						"materials": 0,
+						"mainCosts": 0,
+						"supportCosts": 0,
+						"equipmentCosts": 0,
+						"overheads": 0,
+						"estimatedProfit": 0,
+						"child": []
+					}
 
+				]
+			}
+		]
+	}
+]
